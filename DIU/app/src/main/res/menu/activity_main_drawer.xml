@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item android:title="Dashboard">
+        <menu>
+            <item
+                android:id="@+id/nav_home"
+                android:icon="@drawable/ic_home_black_24dp"
+                android:title="@string/menu_home" />
+            <item
+                android:id="@+id/nav_class_routine"
+                android:icon="@drawable/ic_date_range_black_24dp"
+                android:title="@string/menu_class_routine" />
+            <item
+                android:id="@+id/nav_class_notice"
+                android:icon="@drawable/ic_insert_invitation_black_24dp"
+                android:title="@string/menu_notice" />
+            <item
+                android:id="@+id/nav_account_details"
+                android:icon="@drawable/ic_account_balance_black_24dp"
+                android:title="@string/menu_accounts" />
+            <item
+                android:id="@+id/nav_academic_result"
+                android:icon="@drawable/ic_storage_black_24dp"
+                android:title="@string/menu_result" />
+            <item
+                android:id="@+id/nav_class_academic_calender"
+                android:icon="@drawable/ic_date_range_black_24dp"
+                android:title="@string/menu_academic_calender" />
+
+
+        </menu>
+    </item>
+
+
+    <item android:title="Info">
+        <menu>
+            <item
+                android:id="@+id/nav_administration"
+                android:icon="@drawable/ic_person_black_24dp"
+                android:title="@string/menu_administration" />
+            <item
+                android:id="@+id/nav_faculity_members"
+                android:icon="@drawable/ic_local_library_black_24dp"
+                android:title="@string/menu_faculity_member" />
+            <item
+                android:id="@+id/nav_student_comunity"
+                android:icon="@drawable/ic_people_black_24dp"
+                android:title="@string/menu_student_comunity" />
+            <item
+                android:id="@+id/nav_transport"
+                android:icon="@drawable/ic_directions_bus_black_24dp"
+                android:title="@string/menu_transport" />
+            <item
+                android:id="@+id/nav_photo_gallery"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="@string/menu_gallery" />
+
+        </menu>
+    </item>
+
+    <item android:title="Academics">
+        <menu>
+            <item
+                android:id="@+id/nav_faq"
+                android:icon="@drawable/ic_question_answer_black_24dp"
+                android:title="@string/menu_faq" />
+            <item
+                android:id="@+id/nav_rules"
+                android:icon="@drawable/ic_rate_review_black_24dp"
+                android:title="@string/menu_rules_regulation" />
+            <item
+                android:id="@+id/nav_exam_guidline"
+                android:icon="@drawable/ic_edit_black_24dp"
+                android:title="@string/menu_exam_guidline" />
+            <item
+                android:id="@+id/nav_credit_transfer"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/menu_credit_transfer" />
+            <item
+                android:id="@+id/nav_admission"
+                android:icon="@drawable/ic_add_box_black_24dp"
+                android:title="@string/menu_admission" />
+
+        </menu>
+
+    </item>
+
+
+    <item android:title="Academics">
+        <menu>
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="@string/menu_settings" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_account_circle_black_24dp"
+                android:title="@string/menu_about" />
+
+
+        </menu>
+
+    </item>
+
+</menu>

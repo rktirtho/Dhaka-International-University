@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".RulesAndRegulation">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rules and Regulation"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#1e1e1e"
+        android:padding="@dimen/activity_horizontal_margin"
+        />
+
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:id="@+id/text"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:gravity=""
+        android:text="DIU has established its permanent campus at Satarkul-Badda, Dhaka- Bangladesh. It is located at one of the center places of Dhaka. Total land area is 1.18 acre. There are two buildings. One is three (3) storied building and another is four(4) storied. Modern facilities are available at permanent campus. The entrance road of the permanent campus is decorated with green trees, which looks so to attractive and mind blowing. DIU authority will construct a Long Tennis coat, Basket ball ground, Indoor games ground as well as a big ground for playing Football and Cricket very soon. Classes of Department of English, Department of Sociology, Department of Pharmacy, Department of law and Department of Civil has already been started at permanent campus. Total building area is about 75000 square feet. The architectural view of the two buildings will touch the heart and it will help for remembering the design of moghul architectural style. Different departments and offices will shift there very soon as per government guide line."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+</LinearLayout>

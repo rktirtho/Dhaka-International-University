@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">DIU</string>
+    <string name="app_title">Dhaka International University</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Dhaka International University</string>
+    <string name="nav_header_subtitle">Student Portal</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--<string name="menu_home">Home</string>-->
+    <!--<string name="menu_gallery">Gallery</string>-->
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_class_routine">Class Routine</string>
+    <string name="menu_notice">Notice Board</string>
+    <string name="menu_accounts">Account Details</string>
+    <string name="menu_result">Academic Result</string>
+    <string name="menu_academic_calender">Academic Calendar</string>
+
+
+    <string name="menu_administration">Administration</string>
+    <string name="menu_faculity_member">Faculty Members</string>
+    <string name="menu_student_comunity">Students Community</string>
+    <string name="menu_transport">Transport</string>
+    <string name="menu_gallery">Photo Gallery</string>
+
+
+    <string name="menu_faq">FAQ</string>
+    <string name="menu_rules_regulation">Rules and Regulations</string>
+    <string name="menu_exam_guidline">Examination Guideline</string>
+    <string name="menu_credit_transfer">Credit Accept/Transfer</string>
+    <string name="menu_admission">Admission/ Re-admission</string>
+
+
+    <string name="menu_settings">Settings</string>
+    <string name="menu_about">About</string>
+</resources>
